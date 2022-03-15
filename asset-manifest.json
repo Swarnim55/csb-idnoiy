@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://swarnim55.github.io/csb-idnoiy/static/css/main.86c3eb02.chunk.css",
+    "main.js": "https://swarnim55.github.io/csb-idnoiy/static/js/main.2b10ff1b.chunk.js",
+    "main.js.map": "https://swarnim55.github.io/csb-idnoiy/static/js/main.2b10ff1b.chunk.js.map",
+    "runtime-main.js": "https://swarnim55.github.io/csb-idnoiy/static/js/runtime-main.5cf8aea7.js",
+    "runtime-main.js.map": "https://swarnim55.github.io/csb-idnoiy/static/js/runtime-main.5cf8aea7.js.map",
+    "static/css/2.c3097103.chunk.css": "https://swarnim55.github.io/csb-idnoiy/static/css/2.c3097103.chunk.css",
+    "static/js/2.db1f3661.chunk.js": "https://swarnim55.github.io/csb-idnoiy/static/js/2.db1f3661.chunk.js",
+    "static/js/2.db1f3661.chunk.js.map": "https://swarnim55.github.io/csb-idnoiy/static/js/2.db1f3661.chunk.js.map",
+    "index.html": "https://swarnim55.github.io/csb-idnoiy/index.html",
+    "precache-manifest.dd8bc256394dc304254994661c98b12c.js": "https://swarnim55.github.io/csb-idnoiy/precache-manifest.dd8bc256394dc304254994661c98b12c.js",
+    "service-worker.js": "https://swarnim55.github.io/csb-idnoiy/service-worker.js",
+    "static/css/2.c3097103.chunk.css.map": "https://swarnim55.github.io/csb-idnoiy/static/css/2.c3097103.chunk.css.map",
+    "static/css/main.86c3eb02.chunk.css.map": "https://swarnim55.github.io/csb-idnoiy/static/css/main.86c3eb02.chunk.css.map",
+    "static/js/2.db1f3661.chunk.js.LICENSE.txt": "https://swarnim55.github.io/csb-idnoiy/static/js/2.db1f3661.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "https://swarnim55.github.io/csb-idnoiy/static/media/logo.e8592292.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf8aea7.js",
+    "static/css/2.c3097103.chunk.css",
+    "static/js/2.db1f3661.chunk.js",
+    "static/css/main.86c3eb02.chunk.css",
+    "static/js/main.2b10ff1b.chunk.js"
+  ]
+}
